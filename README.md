@@ -1,3 +1,5 @@
+Here is the complete, production-ready README.md file with the NPIFT LMS section fully fixed and optimized for proper rendering on GitHub.
+```md
 <div align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" style="border-radius: 32px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);" />
 </div>
@@ -11,44 +13,44 @@
 
 <br />
 
-<!-- Hero Section with Glassmorphism -->
+<!-- Hero Section -->
 <div align="center">
-  <div style="background: radial-gradient(circle at 20% 30%, rgba(59,130,246,0.15), rgba(15,23,42,0.95)), linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%); padding: 70px 20px; border-radius: 60px; margin: 20px 0; box-shadow: 0 30px 50px -20px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08); border: 1px solid rgba(59,130,246,0.4); backdrop-filter: blur(2px);">
+  <div style="background: radial-gradient(circle at 20% 30%, rgba(59,130,246,0.15), rgba(15,23,42,0.95)), linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%); padding: 70px 20px; border-radius: 60px; margin: 20px 0; box-shadow: 0 30px 50px -20px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08); border: 1px solid rgba(59,130,246,0.4);">
     <h1 style="color: #FFFFFF; font-size: 64px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; background: linear-gradient(135deg, #FFFFFF, #93C5FD, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Iftikhar Hussain</h1>
-    <p style="color: #A5B4FC; font-size: 26px; margin: 16px 0 0; font-weight: 500; letter-spacing: 0.5px;">🚀 MERN Stack Developer · Full Stack Engineer · LMS Architect</p>
+    <p style="color: #A5B4FC; font-size: 26px; margin: 16px 0 0; font-weight: 500;">🚀 MERN Stack Developer · Full Stack Engineer · LMS Architect</p>
     <div style="margin-top: 32px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 8+ Projects Delivered ✦</span>
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 3+ Years Experience ✦</span>
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 5000+ Active Users ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 8+ Projects Delivered ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 3+ Years Experience ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 5000+ Active Users ✦</span>
     </div>
   </div>
 </div>
 
 <br />
 
-<!-- Professional Info Cards - Modern Grid -->
+<!-- Professional Info Cards -->
 <div align="center">
-  <table style="width: 94%; max-width: 1200px; margin: auto; border-collapse: separate; border-spacing: 20px; background: transparent;">
+  <table style="width: 94%; max-width: 1200px; margin: auto; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4); transition: all 0.3s ease;">
-        <div style="font-size: 44px; margin-bottom: 12px;">🎯</div>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">🎯</div>
         <strong style="color:#3B82F6; font-size: 20px;">Current Focus</strong><br />
-        <span style="color:#CBD5E1; font-weight: 500;">NPIFT LMS · Advanced Features</span>
+        <span style="color:#CBD5E1;">NPIFT LMS · Advanced Features</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4); transition: all 0.3s ease;">
-        <div style="font-size: 44px; margin-bottom: 12px;">📚</div>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">📚</div>
         <strong style="color:#3B82F6; font-size: 20px;">Learning</strong><br />
-        <span style="color:#CBD5E1; font-weight: 500;">Next.js · TypeScript · GraphQL</span>
+        <span style="color:#CBD5E1;">Next.js · TypeScript · GraphQL</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4); transition: all 0.3s ease;">
-        <div style="font-size: 44px; margin-bottom: 12px;">💡</div>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">💡</div>
         <strong style="color:#3B82F6; font-size: 20px;">Ask me about</strong><br />
-        <span style="color:#CBD5E1; font-weight: 500;">MERN · LMS Architecture · APIs</span>
+        <span style="color:#CBD5E1;">MERN · LMS Architecture · APIs</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4); transition: all 0.3s ease;">
-        <div style="font-size: 44px; margin-bottom: 12px;">📧</div>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">📧</div>
         <strong style="color:#3B82F6; font-size: 20px;">Email</strong><br />
-        <a href="mailto:iftikhar27455@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 2px solid #3B82F6; font-weight: 500;">iftikhar27455@gmail.com</a>
+        <a href="mailto:iftikhar27455@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 2px solid #3B82F6;">iftikhar27455@gmail.com</a>
       </td>
     </tr>
   </table>
@@ -56,81 +58,80 @@
 
 <br />
 
-<!-- Tech Stack with Glowing Badges -->
+<!-- Tech Stack -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">⚡ Technical Arsenal ⚡</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">⚡ Technical Arsenal ⚡</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 40px 24px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 24px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3);">
     
-  <!-- Frontend -->
-  <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🎨 Frontend</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  </p>
-  
-  <br />
-  
-  <!-- Backend -->
-  <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">⚙️ Backend</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  </p>
-  
-  <br />
-  
-  <!-- Database -->
-  <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🗄️ Database</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-  
-  <br />
-  
-  <!-- DevOps & Tools -->
-  <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🛠️ DevOps & Tools</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  </p>
-  
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🎨 Frontend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">⚙️ Backend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🗄️ Database</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🛠️ DevOps & Tools</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    </p>
+    
   </div>
 </div>
 
 <br />
 
-<!-- Featured Project: NPIFT LMS - Hero Section -->
+<!-- Featured Project: NPIFT LMS -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🏆 Featured Project 🏆</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🏆 Featured Project 🏆</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 48px; padding: 45px 35px; margin: 20px auto; width: 92%; border: 2px solid #3B82F6; box-shadow: 0 30px 50px -20px rgba(59,130,246,0.5);">
+  <div style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 48px; padding: 45px 35px; margin: 20px auto; width: 92%; border: 2px solid #3B82F6;">
     
-    <div style="font-size: 72px; margin-bottom: 8px;">📚✨</div>
-    <h1 style="color: #60A5FA; font-size: 44px; margin: 12px 0 8px; font-weight: 800;">NPIFT Learning Management System</h1>
-    <p style="color: #A5B4FC; font-size: 22px; margin-bottom: 30px;"><em>Enterprise-Grade Educational Platform for Modern Institutes</em></p>
-    
+    <!-- Project Header -->
+    <div align="center">
+      <div style="font-size: 72px;">📚✨</div>
+      <h1 style="color: #60A5FA; font-size: 44px; margin: 12px 0 8px; font-weight: 800;">NPIFT Learning Management System</h1>
+      <p style="color: #A5B4FC; font-size: 22px; margin-bottom: 30px;"><em>Enterprise-Grade Educational Platform for Modern Institutes</em></p>
+    </div>
+
     <!-- Feature Tags -->
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin-bottom: 40px;">
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin-bottom: 40px;">
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🔐 RBAC System</span>
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🏢 Multi-Tenant</span>
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">📊 Analytics Dashboard</span>
@@ -144,7 +145,7 @@
       <tr>
         <td style="vertical-align: top; padding: 20px; width: 50%;">
           <h3 style="color: #3B82F6; font-size: 26px; margin-bottom: 20px;">✨ Key Features</h3>
-          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px;">
+          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px; margin: 0; padding-left: 20px;">
             <li>✅ Role-based access (Admin, HOD, Teacher, Student, Finance)</li>
             <li>✅ Multi-tenant support for multiple institutes</li>
             <li>✅ Course, class, user & fee dashboards</li>
@@ -158,7 +159,7 @@
         </td>
         <td style="vertical-align: top; padding: 20px; width: 50%;">
           <h3 style="color: #3B82F6; font-size: 26px; margin-bottom: 20px;">🛠 Technical Architecture</h3>
-          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px;">
+          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px; margin: 0; padding-left: 20px;">
             <li>⚛️ React with Context API & Hooks</li>
             <li>🖥 Node.js + Express RESTful API</li>
             <li>🍃 MongoDB with Mongoose ODM</li>
@@ -172,29 +173,30 @@
         </td>
       </tr>
     </table>
-    
+
     <!-- Impact Metrics -->
     <div style="margin-top: 30px; padding: 25px; background: rgba(59,130,246,0.1); border-radius: 32px; border: 1px solid rgba(59,130,246,0.3);">
       <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-        <div style="text-align: center;">
+        <div align="center">
           <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">40%</div>
           <div style="color: #94A3B8;">Admin Workload Reduction</div>
         </div>
-        <div style="text-align: center;">
+        <div align="center">
           <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">5,000+</div>
           <div style="color: #94A3B8;">Active Users</div>
         </div>
-        <div style="text-align: center;">
+        <div align="center">
           <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">8</div>
           <div style="color: #94A3B8;">Institutes Deployed</div>
         </div>
-        <div style="text-align: center;">
+        <div align="center">
           <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">99.9%</div>
           <div style="color: #94A3B8;">Uptime</div>
         </div>
       </div>
       <p align="center" style="margin-top: 20px; color: #CBD5E1;"><strong style="color:#3B82F6;">🎯 My Contribution:</strong> Full Stack Architecture · RBAC Implementation · REST API Design · Database Schema · Frontend Dashboard Development</p>
     </div>
+    
   </div>
 </div>
 
@@ -202,7 +204,7 @@
 
 <!-- Other Projects -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🚀 Other Notable Projects 🚀</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🚀 Other Notable Projects 🚀</span>
 </h2>
 
 <br />
@@ -210,11 +212,11 @@
 <div align="center">
   <table style="width: 94%; max-width: 1300px; margin: auto; border-collapse: separate; border-spacing: 24px;">
     <tr>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); transition: all 0.3s;">
-        <div style="font-size: 52px; margin-bottom: 12px;">🛒</div>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">🛒</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">MERN E-Commerce Platform</h3>
         <p><em style="color: #94A3B8;">Full-featured online store with admin dashboard</em></p>
-        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px;">
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
           <li>✅ Product catalog, cart & checkout flow</li>
           <li>✅ User authentication & JWT authorization</li>
           <li>✅ Admin panel with full CRUD operations</li>
@@ -225,11 +227,11 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">React, Redux, Node.js, Express, MongoDB, JWT</span></p>
         </div>
       </td>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); transition: all 0.3s;">
-        <div style="font-size: 52px; margin-bottom: 12px;">📊</div>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">📊</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Real-Time Analytics Dashboard</h3>
         <p><em style="color: #94A3B8;">Business intelligence & live data visualization</em></p>
-        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px;">
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
           <li>✅ WebSocket live updates (Socket.io)</li>
           <li>✅ Interactive charts (Chart.js / Recharts)</li>
           <li>✅ Customizable widgets & filters</li>
@@ -242,11 +244,11 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); transition: all 0.3s;">
-        <div style="font-size: 52px; margin-bottom: 12px;">✅</div>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">✅</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Task Management System</h3>
         <p><em style="color: #94A3B8;">Kanban-style productivity tool for teams</em></p>
-        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px;">
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
           <li>✅ Drag & drop boards (React Beautiful DnD)</li>
           <li>✅ Task assignments, due dates & priority levels</li>
           <li>✅ Comment threads & activity log</li>
@@ -257,11 +259,11 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">MERN, TailwindCSS, MongoDB, JWT</span></p>
         </div>
       </td>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); transition: all 0.3s;">
-        <div style="font-size: 52px; margin-bottom: 12px;">🏨</div>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">🏨</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Hotel Booking API</h3>
         <p><em style="color: #94A3B8;">RESTful backend service for accommodations</em></p>
-        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px;">
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
           <li>✅ Room availability & dynamic pricing</li>
           <li>✅ Booking engine with date conflict detection</li>
           <li>✅ User reviews & rating system</li>
@@ -280,32 +282,32 @@
 
 <!-- GitHub Analytics -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">📊 GitHub Analytics 📊</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">📊 GitHub Analytics 📊</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 35px 20px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 20px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-stats.vercel.app/api?username=Iftikhar-Hussain221&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="190" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar-Hussain221&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="190" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 25px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 25px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftikhar-Hussain221&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar-Hussain221&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iftikhar-Hussain221&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
   </div>
 </div>
@@ -314,13 +316,13 @@
 
 <!-- Professional Summary -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">💼 Professional Summary 💼</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">💼 Professional Summary 💼</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 40px 35px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3); text-align: center;">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 35px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3); text-align: center;">
     <p style="color: #CBD5E1; font-size: 18px; line-height: 1.9; max-width: 1000px; margin: 0 auto;">
       Results-driven <strong style="color: #60A5FA;">MERN Stack Developer</strong> with 3+ years of experience building scalable, 
       enterprise-grade web applications. Specialized in <strong style="color: #60A5FA;">Learning Management Systems (LMS)</strong>, 
@@ -339,7 +341,7 @@
 
 <!-- Connect Section -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🌐 Let's Connect 🌐</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🌐 Let's Connect 🌐</span>
 </h2>
 
 <br />
@@ -356,7 +358,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 35px 25px; margin: 30px auto 20px; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 25px; margin: 30px auto 20px; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://raw.githubusercontent.com/Iftikhar-Hussain221/Iftikhar-Hussain221/output/snake.svg" alt="Snake animation" style="max-width:100%;" />
     <p style="margin-top: 30px; color: #94A3B8; font-size: 18px;">
       ⚡ <strong>Passionate MERN Developer</strong> — crafting scalable full-stack experiences with modern JavaScript.<br />
@@ -374,3 +376,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
 </div>
+```
