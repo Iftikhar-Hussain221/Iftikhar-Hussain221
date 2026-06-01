@@ -19,10 +19,7 @@
   
   <br/>
   
-  <img src="https://img.shields.io/badge/8%2B_Projects_Delivered-0052CC?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/3%2B_Years_Experience-0052CC?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/5000%2B_Active_Users-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/99.9%25_Uptime-0052CC?style=for-the-badge&logo=statuspage&logoColor=white" />
+ 
   
   <br/><br/>
   
