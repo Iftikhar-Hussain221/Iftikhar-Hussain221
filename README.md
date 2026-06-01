@@ -1,5 +1,4 @@
-Here is the complete, production-ready README.md file with the NPIFT LMS section fully fixed and optimized for proper rendering on GitHub.
-```md
+
 <div align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" style="border-radius: 32px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);" />
 </div>
@@ -376,4 +375,3 @@ Here is the complete, production-ready README.md file with the NPIFT LMS section
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
 </div>
-```
