@@ -302,7 +302,7 @@
 ---
 
 <sub>
-  <strong>© 2025 Iftikhar Hussain</strong> | MERN Stack Developer<br/>
+  <strong>© 2026 Iftikhar Hussain</strong> | MERN Stack Developer<br/>
   <strong>💻 Available for:</strong> Freelance · Full-time · Contract · Remote Opportunities
 </sub>
 
