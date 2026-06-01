@@ -15,13 +15,9 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 
     I'm Iftikhar Hussain
   </h1>
-  <h3>🚀 MERN Stack Developer | Full Stack Engineer | LMS Architect 🚀</h3>
+  <h3>🚀 MERN Stack Developer | Full Stack Engineer </h3>
   
   <br/>
-  
- 
-  
-  <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=Iftikhar-Hussain221&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
