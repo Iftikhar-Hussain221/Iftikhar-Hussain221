@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" style="border-radius: 32px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);" />
 </div>
@@ -7,7 +6,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey!+I'm+Iftikhar+Hussain+%F0%9F%91%8B;MERN+Stack+Developer+%7C+LMS+Specialist;Building+Scalable+Web+Ecosystems;8%2B+Projects+%7C+3%2B+Years+Experience;Open+for+Collaborations+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=900&lines=Hey!+I'm+Iftikhar+Hussain+%F0%9F%91%8B;MERN+Stack+Developer+%7C+LMS+Architect;Building+Scalable+Web+Ecosystems;8%2B+Projects+%7C+3%2B+Years+Experience;Open+for+Collaborations+%26+Innovation" alt="Typing SVG" />
 </p>
 
 <br />
@@ -18,9 +17,9 @@
     <h1 style="color: #FFFFFF; font-size: 64px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; background: linear-gradient(135deg, #FFFFFF, #93C5FD, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Iftikhar Hussain</h1>
     <p style="color: #A5B4FC; font-size: 26px; margin: 16px 0 0; font-weight: 500;">🚀 MERN Stack Developer · Full Stack Engineer · LMS Architect</p>
     <div style="margin-top: 32px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 8+ Projects Delivered ✦</span>
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 3+ Years Experience ✦</span>
-      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 5000+ Active Users ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 8+ Projects Delivered ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 3+ Years Experience ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5); backdrop-filter: blur(4px);">✦ 5000+ Active Users ✦</span>
     </div>
   </div>
 </div>
@@ -31,25 +30,25 @@
 <div align="center">
   <table style="width: 94%; max-width: 1200px; margin: auto; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4);">
         <div style="font-size: 44px;">🎯</div>
         <strong style="color:#3B82F6; font-size: 20px;">Current Focus</strong><br />
-        <span style="color:#CBD5E1;">NPIFT LMS · Advanced Features</span>
+        <span style="color:#CBD5E1; font-weight: 500;">NPIFT LMS · Advanced Features</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4);">
         <div style="font-size: 44px;">📚</div>
         <strong style="color:#3B82F6; font-size: 20px;">Learning</strong><br />
-        <span style="color:#CBD5E1;">Next.js · TypeScript · GraphQL</span>
+        <span style="color:#CBD5E1; font-weight: 500;">Next.js · TypeScript · GraphQL</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4);">
         <div style="font-size: 44px;">💡</div>
         <strong style="color:#3B82F6; font-size: 20px;">Ask me about</strong><br />
-        <span style="color:#CBD5E1;">MERN · LMS Architecture · APIs</span>
+        <span style="color:#CBD5E1; font-weight: 500;">MERN · LMS Architecture · APIs</span>
       </td>
-      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.4);">
         <div style="font-size: 44px;">📧</div>
         <strong style="color:#3B82F6; font-size: 20px;">Email</strong><br />
-        <a href="mailto:iftikhar27455@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 2px solid #3B82F6;">iftikhar27455@gmail.com</a>
+        <a href="mailto:iftikhar27455@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 2px solid #3B82F6; font-weight: 500;">iftikhar27455@gmail.com</a>
       </td>
     </tr>
   </table>
@@ -59,13 +58,13 @@
 
 <!-- Tech Stack -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">⚡ Technical Arsenal ⚡</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">⚡ Technical Arsenal ⚡</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 24px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 40px 24px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3);">
     
     <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🎨 Frontend</h3>
     <p align="center">
@@ -105,6 +104,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </p>
     
   </div>
@@ -114,13 +114,13 @@
 
 <!-- Featured Project: NPIFT LMS -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🏆 Featured Project 🏆</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🏆 Featured Project 🏆</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 48px; padding: 45px 35px; margin: 20px auto; width: 92%; border: 2px solid #3B82F6;">
+  <div style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 48px; padding: 45px 35px; margin: 20px auto; width: 92%; border: 2px solid #3B82F6; box-shadow: 0 30px 50px -20px rgba(59,130,246,0.4);">
     
     <!-- Project Header -->
     <div align="center">
@@ -137,6 +137,7 @@
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">💰 Fee Management</span>
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">📈 Real-time Reports</span>
       <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🎓 Exam Management</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">📅 Attendance Tracking</span>
     </div>
 
     <!-- Two Column Layout -->
@@ -154,6 +155,7 @@
             <li>✅ Exam management with automated result calculation</li>
             <li>✅ Notice board & announcement system</li>
             <li>✅ Real-time notifications (Socket.io)</li>
+            <li>✅ Interactive charts & reports (Chart.js)</li>
           </ul>
         </td>
         <td style="vertical-align: top; padding: 20px; width: 50%;">
@@ -168,6 +170,7 @@
             <li>📊 Chart.js for interactive dashboards</li>
             <li>🐳 Docker containerization ready</li>
             <li>🌐 Deployed on AWS EC2</li>
+            <li>🔄 CI/CD with GitHub Actions</li>
           </ul>
         </td>
       </tr>
@@ -193,7 +196,7 @@
           <div style="color: #94A3B8;">Uptime</div>
         </div>
       </div>
-      <p align="center" style="margin-top: 20px; color: #CBD5E1;"><strong style="color:#3B82F6;">🎯 My Contribution:</strong> Full Stack Architecture · RBAC Implementation · REST API Design · Database Schema · Frontend Dashboard Development</p>
+      <p align="center" style="margin-top: 20px; color: #CBD5E1; font-size: 16px;"><strong style="color:#3B82F6;">🎯 My Contribution:</strong> Full Stack Architecture · RBAC Implementation · REST API Design · Database Schema Design · Frontend Dashboard Development · Team Leadership</p>
     </div>
     
   </div>
@@ -203,7 +206,7 @@
 
 <!-- Other Projects -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🚀 Other Notable Projects 🚀</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🚀 Other Notable Projects 🚀</span>
 </h2>
 
 <br />
@@ -211,7 +214,7 @@
 <div align="center">
   <table style="width: 94%; max-width: 1300px; margin: auto; border-collapse: separate; border-spacing: 24px;">
     <tr>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.3); transition: transform 0.3s;">
         <div style="font-size: 52px;">🛒</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">MERN E-Commerce Platform</h3>
         <p><em style="color: #94A3B8;">Full-featured online store with admin dashboard</em></p>
@@ -226,7 +229,7 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">React, Redux, Node.js, Express, MongoDB, JWT</span></p>
         </div>
       </td>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.3);">
         <div style="font-size: 52px;">📊</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Real-Time Analytics Dashboard</h3>
         <p><em style="color: #94A3B8;">Business intelligence & live data visualization</em></p>
@@ -243,7 +246,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.3);">
         <div style="font-size: 52px;">✅</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Task Management System</h3>
         <p><em style="color: #94A3B8;">Kanban-style productivity tool for teams</em></p>
@@ -258,7 +261,7 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">MERN, TailwindCSS, MongoDB, JWT</span></p>
         </div>
       </td>
-      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 8px 20px -10px rgba(0,0,0,0.3);">
         <div style="font-size: 52px;">🏨</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Hotel Booking API</h3>
         <p><em style="color: #94A3B8;">RESTful backend service for accommodations</em></p>
@@ -281,32 +284,32 @@
 
 <!-- GitHub Analytics -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">📊 GitHub Analytics 📊</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">📊 GitHub Analytics 📊</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 20px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 35px 20px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-stats.vercel.app/api?username=Iftikhar-Hussain221&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="190" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar-Hussain221&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="190" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 25px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 25px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftikhar-Hussain221&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar-Hussain221&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
   </div>
 </div>
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iftikhar-Hussain221&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
   </div>
 </div>
@@ -315,13 +318,13 @@
 
 <!-- Professional Summary -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">💼 Professional Summary 💼</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">💼 Professional Summary 💼</span>
 </h2>
 
 <br />
 
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 35px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3); text-align: center;">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 40px 35px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3); text-align: center;">
     <p style="color: #CBD5E1; font-size: 18px; line-height: 1.9; max-width: 1000px; margin: 0 auto;">
       Results-driven <strong style="color: #60A5FA;">MERN Stack Developer</strong> with 3+ years of experience building scalable, 
       enterprise-grade web applications. Specialized in <strong style="color: #60A5FA;">Learning Management Systems (LMS)</strong>, 
@@ -340,7 +343,7 @@
 
 <!-- Connect Section -->
 <h2 align="center">
-  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🌐 Let's Connect 🌐</span>
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700; box-shadow: 0 10px 25px -5px rgba(59,130,246,0.4);">🌐 Let's Connect 🌐</span>
 </h2>
 
 <br />
@@ -351,17 +354,29 @@
   <a href="https://www.linkedin.com/in/iftikhar-hussain-221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/iftikhar_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
+<br />
+
+<!-- Dynamic Quote -->
+<div align="center">
+  <div style="background: rgba(59,130,246,0.1); border-radius: 40px; padding: 20px 30px; margin: 20px auto; width: 80%; border-left: 4px solid #3B82F6;">
+    <p style="color: #A5B4FC; font-size: 18px; font-style: italic;">
+      "Code with clarity, build with purpose, and always strive for excellence."
+    </p>
+  </div>
+</div>
 
 <br />
 
 <!-- Footer -->
 <div align="center">
-  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 25px; margin: 30px auto 20px; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+  <div style="background: rgba(15,23,42,0.8); backdrop-filter: blur(8px); border-radius: 48px; padding: 35px 25px; margin: 30px auto 20px; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
     <img src="https://raw.githubusercontent.com/Iftikhar-Hussain221/Iftikhar-Hussain221/output/snake.svg" alt="Snake animation" style="max-width:100%;" />
     <p style="margin-top: 30px; color: #94A3B8; font-size: 18px;">
       ⚡ <strong>Passionate MERN Developer</strong> — crafting scalable full-stack experiences with modern JavaScript.<br />
-      💡 <em>"Code with clarity, build with purpose, and always strive for excellence."</em>
+      💡 <em>Always learning, always building, always growing.</em>
     </p>
     <div style="margin-top: 25px;">
       <img src="https://visit-counter.vercel.app/count?username=Iftikhar-Hussain221&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" />
@@ -372,6 +387,7 @@
   </div>
 </div>
 
+<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
 </div>
