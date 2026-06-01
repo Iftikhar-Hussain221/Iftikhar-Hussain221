@@ -1,313 +1,376 @@
 <div align="center">
-  <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" />
+  <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" style="border-radius: 32px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);" />
 </div>
 
-<br/>
+<br />
 
+<!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=1000&lines=🔥+Iftikhar+Hussain+%F0%9F%91%8B;MERN+Stack+Developer+%7C+LMS+Architect;8%2B+Projects+%7C+3%2B+Years+Experience;Building+the+Future+with+Code+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey!+I'm+Iftikhar+Hussain+%F0%9F%91%8B;MERN+Stack+Developer+%7C+LMS+Specialist;Building+Scalable+Web+Ecosystems;8%2B+Projects+%7C+3%2B+Years+Experience;Open+for+Collaborations+%26+Innovation" alt="Typing SVG" />
 </p>
 
-<br/>
+<br />
 
+<!-- Hero Section -->
 <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 
-    I'm Iftikhar Hussain
-  </h1>
-  <h3>🚀 MERN Stack Developer | Full Stack Engineer | LMS Architect 🚀</h3>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/8%2B_Projects_Delivered-0052CC?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/3%2B_Years_Experience-0052CC?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/5000%2B_Active_Users-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/99.9%25_Uptime-0052CC?style=for-the-badge&logo=statuspage&logoColor=white" />
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Iftikhar-Hussain221&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <div style="background: radial-gradient(circle at 20% 30%, rgba(59,130,246,0.15), rgba(15,23,42,0.95)), linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%); padding: 70px 20px; border-radius: 60px; margin: 20px 0; box-shadow: 0 30px 50px -20px rgba(0,0,0,0.6), inset 0 1px 0 rgba(255,255,255,0.08); border: 1px solid rgba(59,130,246,0.4);">
+    <h1 style="color: #FFFFFF; font-size: 64px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; background: linear-gradient(135deg, #FFFFFF, #93C5FD, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Iftikhar Hussain</h1>
+    <p style="color: #A5B4FC; font-size: 26px; margin: 16px 0 0; font-weight: 500;">🚀 MERN Stack Developer · Full Stack Engineer · LMS Architect</p>
+    <div style="margin-top: 32px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 8+ Projects Delivered ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 3+ Years Experience ✦</span>
+      <span style="background: rgba(59,130,246,0.25); padding: 10px 28px; border-radius: 60px; color: #60A5FA; font-size: 15px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">✦ 5000+ Active Users ✦</span>
+    </div>
+  </div>
 </div>
 
-<br/>
-<hr/>
-<br/>
+<br />
 
+<!-- Professional Info Cards -->
 <div align="center">
-  <h2>📌 About Me</h2>
-  
-| | |
-|---|---|
-| 🔭 Currently working on **NPIFT LMS** - Enterprise Learning Platform | 🌱 Learning **Next.js, TypeScript, GraphQL** |
-| 💬 Ask me about **MERN Stack, LMS Architecture, REST APIs** | ⚡ Fun fact: I turn coffee into code ☕ → 💻 |
-| 📍 Based in **Pakistan** | 🎯 Goal: Build scalable solutions that impact millions |
-| 💼 Open for **Freelance & Full-time opportunities** | 📧 Reach me: **iftikhar27455@gmail.com** |
-
+  <table style="width: 94%; max-width: 1200px; margin: auto; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">🎯</div>
+        <strong style="color:#3B82F6; font-size: 20px;">Current Focus</strong><br />
+        <span style="color:#CBD5E1;">NPIFT LMS · Advanced Features</span>
+      </td>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">📚</div>
+        <strong style="color:#3B82F6; font-size: 20px;">Learning</strong><br />
+        <span style="color:#CBD5E1;">Next.js · TypeScript · GraphQL</span>
+      </td>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">💡</div>
+        <strong style="color:#3B82F6; font-size: 20px;">Ask me about</strong><br />
+        <span style="color:#CBD5E1;">MERN · LMS Architecture · APIs</span>
+      </td>
+      <td align="center" style="background: linear-gradient(145deg, #0F172A, #111827); border-radius: 32px; padding: 28px 16px; border: 1px solid rgba(59,130,246,0.3);">
+        <div style="font-size: 44px;">📧</div>
+        <strong style="color:#3B82F6; font-size: 20px;">Email</strong><br />
+        <a href="mailto:iftikhar27455@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 2px solid #3B82F6;">iftikhar27455@gmail.com</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-<hr/>
-<br/>
+<br />
+
+<!-- Tech Stack -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">⚡ Technical Arsenal ⚡</span>
+</h2>
+
+<br />
 
 <div align="center">
-  <h2>🛠️ Technical Arsenal</h2>
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 24px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3);">
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🎨 Frontend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">⚙️ Backend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🗄️ Database</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    </p>
+    
+    <br />
+    
+    <h3 align="center" style="color: #93C5FD; margin-bottom: 20px;">🛠️ DevOps & Tools</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    </p>
+    
+  </div>
 </div>
 
-<h3 align="center">🎨 Frontend</h3>
+<br />
+
+<!-- Featured Project: NPIFT LMS -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🏆 Featured Project 🏆</span>
+</h2>
+
+<br />
+
+<div align="center">
+  <div style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 48px; padding: 45px 35px; margin: 20px auto; width: 92%; border: 2px solid #3B82F6;">
+    
+    <!-- Project Header -->
+    <div align="center">
+      <div style="font-size: 72px;">📚✨</div>
+      <h1 style="color: #60A5FA; font-size: 44px; margin: 12px 0 8px; font-weight: 800;">NPIFT Learning Management System</h1>
+      <p style="color: #A5B4FC; font-size: 22px; margin-bottom: 30px;"><em>Enterprise-Grade Educational Platform for Modern Institutes</em></p>
+    </div>
+
+    <!-- Feature Tags -->
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin-bottom: 40px;">
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🔐 RBAC System</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🏢 Multi-Tenant</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">📊 Analytics Dashboard</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">💰 Fee Management</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">📈 Real-time Reports</span>
+      <span style="background: rgba(59,130,246,0.2); padding: 8px 22px; border-radius: 50px; color: #93C5FD; font-size: 14px; font-weight: 600; border: 1px solid rgba(59,130,246,0.5);">🎓 Exam Management</span>
+    </div>
+
+    <!-- Two Column Layout -->
+    <table style="width: 100%; margin: 20px 0; border-collapse: collapse;">
+      <tr>
+        <td style="vertical-align: top; padding: 20px; width: 50%;">
+          <h3 style="color: #3B82F6; font-size: 26px; margin-bottom: 20px;">✨ Key Features</h3>
+          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px; margin: 0; padding-left: 20px;">
+            <li>✅ Role-based access (Admin, HOD, Teacher, Student, Finance)</li>
+            <li>✅ Multi-tenant support for multiple institutes</li>
+            <li>✅ Course, class, user & fee dashboards</li>
+            <li>✅ JWT authentication & protected routes</li>
+            <li>✅ Assignment submission & grading system</li>
+            <li>✅ Live class scheduling & attendance tracking</li>
+            <li>✅ Exam management with automated result calculation</li>
+            <li>✅ Notice board & announcement system</li>
+            <li>✅ Real-time notifications (Socket.io)</li>
+          </ul>
+        </td>
+        <td style="vertical-align: top; padding: 20px; width: 50%;">
+          <h3 style="color: #3B82F6; font-size: 26px; margin-bottom: 20px;">🛠 Technical Architecture</h3>
+          <ul style="text-align: left; color: #CBD5E1; line-height: 2.2; font-size: 16px; margin: 0; padding-left: 20px;">
+            <li>⚛️ React with Context API & Hooks</li>
+            <li>🖥 Node.js + Express RESTful API</li>
+            <li>🍃 MongoDB with Mongoose ODM</li>
+            <li>🐘 PostgreSQL for analytical reporting</li>
+            <li>🔒 JWT + bcrypt for authentication</li>
+            <li>📧 Nodemailer for email notifications</li>
+            <li>📊 Chart.js for interactive dashboards</li>
+            <li>🐳 Docker containerization ready</li>
+            <li>🌐 Deployed on AWS EC2</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+
+    <!-- Impact Metrics -->
+    <div style="margin-top: 30px; padding: 25px; background: rgba(59,130,246,0.1); border-radius: 32px; border: 1px solid rgba(59,130,246,0.3);">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+        <div align="center">
+          <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">40%</div>
+          <div style="color: #94A3B8;">Admin Workload Reduction</div>
+        </div>
+        <div align="center">
+          <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">5,000+</div>
+          <div style="color: #94A3B8;">Active Users</div>
+        </div>
+        <div align="center">
+          <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">8</div>
+          <div style="color: #94A3B8;">Institutes Deployed</div>
+        </div>
+        <div align="center">
+          <div style="font-size: 36px; font-weight: 800; color: #60A5FA;">99.9%</div>
+          <div style="color: #94A3B8;">Uptime</div>
+        </div>
+      </div>
+      <p align="center" style="margin-top: 20px; color: #CBD5E1;"><strong style="color:#3B82F6;">🎯 My Contribution:</strong> Full Stack Architecture · RBAC Implementation · REST API Design · Database Schema · Frontend Dashboard Development</p>
+    </div>
+    
+  </div>
+</div>
+
+<br />
+
+<!-- Other Projects -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🚀 Other Notable Projects 🚀</span>
+</h2>
+
+<br />
+
+<div align="center">
+  <table style="width: 94%; max-width: 1300px; margin: auto; border-collapse: separate; border-spacing: 24px;">
+    <tr>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">🛒</div>
+        <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">MERN E-Commerce Platform</h3>
+        <p><em style="color: #94A3B8;">Full-featured online store with admin dashboard</em></p>
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
+          <li>✅ Product catalog, cart & checkout flow</li>
+          <li>✅ User authentication & JWT authorization</li>
+          <li>✅ Admin panel with full CRUD operations</li>
+          <li>✅ Payment integration (Stripe/PayPal)</li>
+          <li>✅ Order tracking & invoice generation</li>
+        </ul>
+        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #334155;">
+          <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">React, Redux, Node.js, Express, MongoDB, JWT</span></p>
+        </div>
+      </td>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">📊</div>
+        <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Real-Time Analytics Dashboard</h3>
+        <p><em style="color: #94A3B8;">Business intelligence & live data visualization</em></p>
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
+          <li>✅ WebSocket live updates (Socket.io)</li>
+          <li>✅ Interactive charts (Chart.js / Recharts)</li>
+          <li>✅ Customizable widgets & filters</li>
+          <li>✅ Role-based views (Manager, Analyst, Admin)</li>
+          <li>✅ Data export (CSV/PDF reports)</li>
+        </ul>
+        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #334155;">
+          <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">React, Node.js, Express, MongoDB, Socket.io</span></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">✅</div>
+        <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Task Management System</h3>
+        <p><em style="color: #94A3B8;">Kanban-style productivity tool for teams</em></p>
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
+          <li>✅ Drag & drop boards (React Beautiful DnD)</li>
+          <li>✅ Task assignments, due dates & priority levels</li>
+          <li>✅ Comment threads & activity log</li>
+          <li>✅ Email notifications (Nodemailer)</li>
+          <li>✅ Dark/light mode toggle</li>
+        </ul>
+        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #334155;">
+          <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">MERN, TailwindCSS, MongoDB, JWT</span></p>
+        </div>
+      </td>
+      <td width="50%" style="background: linear-gradient(145deg, #0F172A, #1A1F35); border-radius: 32px; padding: 32px; border: 1px solid rgba(59,130,246,0.4);">
+        <div style="font-size: 52px;">🏨</div>
+        <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">Hotel Booking API</h3>
+        <p><em style="color: #94A3B8;">RESTful backend service for accommodations</em></p>
+        <ul style="text-align: left; color: #CBD5E1; line-height: 1.9; margin-top: 16px; padding-left: 20px;">
+          <li>✅ Room availability & dynamic pricing</li>
+          <li>✅ Booking engine with date conflict detection</li>
+          <li>✅ User reviews & rating system</li>
+          <li>✅ JWT + role-based access</li>
+          <li>✅ Swagger API documentation</li>
+        </ul>
+        <div style="margin-top: 20px; padding-top: 16px; border-top: 1px solid #334155;">
+          <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">Node.js, Express, MongoDB, JWT, Swagger</span></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- GitHub Analytics -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">📊 GitHub Analytics 📊</span>
+</h2>
+
+<br />
+
+<div align="center">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 20px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+    <img src="https://github-readme-stats.vercel.app/api?username=Iftikhar-Hussain221&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="190" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar-Hussain221&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="190" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 25px; margin: 20px auto; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftikhar-Hussain221&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+    <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar-Hussain221&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 20px; margin: 20px auto; width: 96%; border: 1px solid rgba(59,130,246,0.3);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iftikhar-Hussain221&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
+  </div>
+</div>
+
+<br />
+
+<!-- Professional Summary -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">💼 Professional Summary 💼</span>
+</h2>
+
+<br />
+
+<div align="center">
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 40px 35px; margin: 20px auto; width: 92%; border: 1px solid rgba(59,130,246,0.3); text-align: center;">
+    <p style="color: #CBD5E1; font-size: 18px; line-height: 1.9; max-width: 1000px; margin: 0 auto;">
+      Results-driven <strong style="color: #60A5FA;">MERN Stack Developer</strong> with 3+ years of experience building scalable, 
+      enterprise-grade web applications. Specialized in <strong style="color: #60A5FA;">Learning Management Systems (LMS)</strong>, 
+      e-commerce platforms, and real-time dashboards. Passionate about clean code, optimal performance, and seamless user experiences. 
+      Experienced in leading development teams and delivering complex projects within deadlines.
+    </p>
+    <br />
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 30px;">
+      <div><strong style="color:#3B82F6; font-size: 18px;">🎯 Core Competencies:</strong> <span style="color:#CBD5E1;">Full Stack Development · System Architecture · API Design · Database Optimization</span></div>
+      <div><strong style="color:#3B82F6; font-size: 18px;">🤝 Soft Skills:</strong> <span style="color:#CBD5E1;">Team Leadership · Agile/Scrum · Problem Solving · Communication</span></div>
+    </div>
+  </div>
+</div>
+
+<br />
+
+<!-- Connect Section -->
+<h2 align="center">
+  <span style="background: linear-gradient(135deg, #3B82F6, #8B5CF6, #06B6D4); padding: 12px 42px; border-radius: 80px; display: inline-block; color: white; font-size: 28px; font-weight: 700;">🌐 Let's Connect 🌐</span>
+</h2>
+
+<br />
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <a href="mailto:iftikhar27455@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Iftikhar-Hussain221"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iftikhar-hussain-221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/iftikhar_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-</p>
+<br />
 
-<h3 align="center">🗄️ Database</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<h3 align="center">🛠️ DevOps & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<br/>
-<hr/>
-<br/>
-
+<!-- Footer -->
 <div align="center">
-  <h2>🏆 Featured Project</h2>
+  <div style="background: rgba(15,23,42,0.8); border-radius: 48px; padding: 35px 25px; margin: 30px auto 20px; width: 94%; border: 1px solid rgba(59,130,246,0.3);">
+    <img src="https://raw.githubusercontent.com/Iftikhar-Hussain221/Iftikhar-Hussain221/output/snake.svg" alt="Snake animation" style="max-width:100%;" />
+    <p style="margin-top: 30px; color: #94A3B8; font-size: 18px;">
+      ⚡ <strong>Passionate MERN Developer</strong> — crafting scalable full-stack experiences with modern JavaScript.<br />
+      💡 <em>"Code with clarity, build with purpose, and always strive for excellence."</em>
+    </p>
+    <div style="margin-top: 25px;">
+      <img src="https://visit-counter.vercel.app/count?username=Iftikhar-Hussain221&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" />
+    </div>
+    <p style="margin-top: 20px; color: #5A6E8A; font-size: 14px;">
+      © 2025 Iftikhar Hussain | Available for freelance & full-time opportunities
+    </p>
+  </div>
 </div>
 
 <div align="center">
-  
-## 📚✨ NPIFT Learning Management System
-
-### *Enterprise-Grade Educational Platform for Modern Institutes*
-
-| 🔐 RBAC | 🏢 Multi-Tenant | 📊 Analytics | 💰 Fee Management | 📈 Reports | 🎓 Exams | 📅 Attendance |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
-
-| ✨ Key Features | 🛠 Technical Architecture |
-|:---|:---|
-| ✅ Role-based access (Admin, HOD, Teacher, Student, Finance) | ⚛️ React with Context API & Hooks |
-| ✅ Multi-tenant support for multiple institutes | 🖥 Node.js + Express RESTful API |
-| ✅ Course, class, user & fee dashboards | 🍃 MongoDB with Mongoose ODM |
-| ✅ JWT authentication & protected routes | 🐘 PostgreSQL for analytical reporting |
-| ✅ Assignment submission & grading system | 🔒 JWT + bcrypt for authentication |
-| ✅ Live class scheduling & attendance tracking | 📧 Nodemailer for email notifications |
-| ✅ Exam management with automated result calculation | 📊 Chart.js for interactive dashboards |
-| ✅ Notice board & announcement system | 🐳 Docker containerization |
-| ✅ Real-time notifications (Socket.io) | 🌐 AWS EC2 Deployment |
-
-<div align="center">
-
-### 📊 Impact Metrics
-
-| 📉 40% | 👥 5,000+ | 🏫 8 | 📈 99.9% |
-|:---:|:---:|:---:|:---:|
-| Admin Workload Reduction | Active Users | Institutes Deployed | Uptime |
-
-**🎯 My Contribution:** Full Stack Architecture · RBAC Implementation · REST API Design · Database Schema Design · Frontend Dashboard Development · Team Leadership
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2>🚀 Other Notable Projects</h2>
-</div>
-
-<h3>🛒 MERN E-Commerce Platform</h3>
-<p><em>Full-featured online store with admin dashboard</em></p>
-
-| Features | Technologies |
-|:---|:---|
-| Product catalog, cart & checkout | React, Redux |
-| JWT authentication & authorization | Node.js, Express |
-| Admin panel with full CRUD | MongoDB, JWT |
-| Stripe/PayPal payment integration | Stripe API |
-| Order tracking & invoice generation | PDF generation |
-
----
-
-<h3>📊 Real-Time Analytics Dashboard</h3>
-<p><em>Business intelligence & live data visualization</em></p>
-
-| Features | Technologies |
-|:---|:---|
-| WebSocket live updates | Socket.io |
-| Interactive charts | Chart.js / Recharts |
-| Customizable widgets & filters | React |
-| Role-based views | Node.js, Express |
-| CSV/PDF export functionality | MongoDB |
-
----
-
-<h3>✅ Task Management System</h3>
-<p><em>Kanban-style productivity tool for teams</em></p>
-
-| Features | Technologies |
-|:---|:---|
-| Drag & drop boards | React Beautiful DnD |
-| Task assignments & priorities | Node.js, Express |
-| Comment threads & activity log | MongoDB |
-| Email notifications | Nodemailer |
-| Dark/light mode toggle | TailwindCSS |
-
----
-
-<h3>🏨 Hotel Booking API</h3>
-<p><em>RESTful backend service for accommodations</em></p>
-
-| Features | Technologies |
-|:---|:---|
-| Room availability & dynamic pricing | Node.js, Express |
-| Booking conflict detection | MongoDB |
-| User reviews & rating system | JWT Authentication |
-| Role-based access control | Swagger API Docs |
-| Complete API documentation | Postman Testing |
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iftikhar-Hussain221&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&ring=3B82F6&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar-Hussain221&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=9CA3AF" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iftikhar-Hussain221&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=9CA3AF&sideNums=3B82F6&sideLabels=9CA3AF&currStreakLabel=3B82F6" width="65%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar-Hussain221&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iftikhar-Hussain221&theme=react-dark&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="100%" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2>💼 Professional Summary</h2>
-</div>
-
-> Results-driven **MERN Stack Developer** with 3+ years of experience building scalable, 
-> enterprise-grade web applications. Specialized in **Learning Management Systems (LMS)**, 
-> e-commerce platforms, and real-time dashboards. Passionate about clean code, optimal performance, 
-> and seamless user experiences. Experienced in leading development teams and delivering complex 
-> projects within deadlines.
-
-<div align="center">
-
-| 🎯 Core Competencies | 🤝 Soft Skills | 🏆 Achievements |
-|:---|:---|:---|
-| Full Stack Development | Team Leadership | 8+ Successful Projects |
-| System Architecture | Agile/Scrum | 5000+ Active Users |
-| API Design | Problem Solving | 99.9% Uptime |
-| Database Optimization | Communication | 40% Efficiency Increase |
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2>🌐 Let's Connect</h2>
-</div>
-
-<p align="center">
-  <a href="mailto:iftikhar27455@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Iftikhar-Hussain221">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/iftikhar-hussain-221">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/iftikhar_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_for_Freelance-Yes-00FF00?style=for-the-badge&logo=upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_for_Full_Time-Yes-00FF00?style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  
-> 💡 *"Code with clarity, build with purpose, and always strive for excellence."*
-> 
-> — Iftikhar Hussain
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-<br/>
-
----
-
-<sub>
-  <strong>© 2025 Iftikhar Hussain</strong> | MERN Stack Developer<br/>
-  <strong>💻 Available for:</strong> Freelance · Full-time · Contract · Remote Opportunities
-</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&gradientColorStart=0D1117&gradientColorEnd=3B82F6" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
 </div>
